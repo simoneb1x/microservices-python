@@ -7,11 +7,11 @@
             "previewLimit": 50,
             "server": "localhost",
             "port": 33066,
-            "askForPassword": true,
             "driver": "MySQL",
             "name": "@localhost",
             "database": "admin",
-            "username": "root"
+            "username": "root",
+            "password": "root"
         }
     ]
 }
